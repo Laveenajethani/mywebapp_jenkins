@@ -3,5 +3,5 @@ services:
  laviapp:
   image: laveenajethani/myportal:v1
   container_name: mycon
-  port:
+  ports:
    - "8887:80"
