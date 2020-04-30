@@ -1,1 +1,7 @@
-
+version: '3.8'
+services:
+ laviapp:
+  image:
+  container_name:
+  port:
+   - "8887:80"
