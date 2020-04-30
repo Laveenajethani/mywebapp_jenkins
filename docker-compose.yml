@@ -1,7 +1,7 @@
 version: '3.8'
 services:
  laviapp:
-  image: laveenajethani/myportal
+  image: laveenajethani/myportal:v1
   container_name: mycon
   port:
    - "8887:80"
